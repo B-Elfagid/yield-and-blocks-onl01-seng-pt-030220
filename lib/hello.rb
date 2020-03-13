@@ -8,7 +8,7 @@ def hello_t(arr)
   
 end
 
-arr
+array
 
 end
 
